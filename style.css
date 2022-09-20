@@ -222,8 +222,10 @@ h1, h2 {
     width: 200px;
     height: 150px;
     padding: 5px;
+    margin: 5px;
     background: #091E77;
     border-radius: 15px;
+    float: right;
 }
 
 .project .skill-tag {
@@ -232,6 +234,23 @@ h1, h2 {
     margin-bottom: 2rem;
 }
 
+div.imgallery {
+    background-color: rgb(220, 220, 220);
+    border-radius: 15px;
+    
+}
+
+.imgallery img{
+    height: 200px;
+    width: auto;
+    float: none;
+    background: none;
+    display: inline-block;
+    border: solid black;
+    border-radius: 15px;
+    margin: 5px;
+    padding: 0px;
+}
 img {
     object-fit: cover;
 }
