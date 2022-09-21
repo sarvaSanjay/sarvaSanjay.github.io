@@ -220,7 +220,7 @@ h1, h2 {
 
 .project img {
     width: 200px;
-    height: 150px;
+    height: auto;
     padding: 5px;
     margin: 5px;
     background: #091E77;
@@ -240,6 +240,7 @@ div.imgallery {
     overflow: auto;
     white-space: nowrap;
     padding: 5px;
+    margin: 5px;
 }
 
 .imgallery img{
@@ -259,6 +260,7 @@ div.vidgallery {
     width: 100%;
     border-radius: 5px;
     padding: 5px;
+    margin: 5px;
 }
 
 .vidgallery video{
