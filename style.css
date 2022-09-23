@@ -402,5 +402,9 @@ img {
     .project img {
         float: right;
     }
+
+    .imgallery img {
+        float: none;
+    }
 }
 
