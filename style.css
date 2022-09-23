@@ -386,6 +386,11 @@ img {
         float: none;
     }
 
+    .vidgallery video {
+        width: auto;
+        height: 400px;
+    }
+
 }
 
 
@@ -405,6 +410,11 @@ img {
 
     .imgallery img {
         float: none;
+    }
+
+    .vidgallery video {
+        width: auto;
+        height: 500px;
     }
 }
 
