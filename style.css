@@ -326,6 +326,10 @@ img {
     .header {
         height: 80vh;
     }
+
+    .vidgallery video{
+        max-width: 100%;
+    }
 }
 
 
@@ -389,6 +393,7 @@ img {
     .vidgallery video {
         width: auto;
         height: 100px;
+        max-width: 100%;
     }
 
 }
@@ -415,6 +420,7 @@ img {
     .vidgallery video {
         width: auto;
         height: 500px;
+        max-width: 100%;
     }
 }
 
